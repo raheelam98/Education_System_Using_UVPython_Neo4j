@@ -61,7 +61,7 @@ Removes the specified properties from all nodes matched by m without deleting th
 
 [NODES 2023 - Building Your Python API on Top of Neo4j with neomodel](https://www.youtube.com/watch?v=v4CgjiVist4)
 
-[Neo4j with Python - Upload data into Neo4j with Python]](https://www.youtube.com/watch?v=yluHRteVBNI)
+[Neo4j with Python - Upload data into Neo4j with Python](https://www.youtube.com/watch?v=yluHRteVBNI)
 
 [Py2neo 2.0, Unleashed!](https://neo4j.com/blog/py2neo-2-0-unleashed/)
 
